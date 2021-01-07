@@ -4,9 +4,6 @@ Horiseon webpage aims to help guide our prospective clients through our services
 
 In order to achieve an accessible webpage for Horiseon, semantic tags were deployed and used in place of the pre-existing div elements. Key navigation tags were deployed inside the header to following a logical structure, that independent of styling and positioning. Other semantic tags, such as article, figure, footer and sections were used to update elements of the HTML file that were previously unspecific. 
 
--add more specific examples of what you did and why 
-
--make it clear you did this for a client and didn't build the website
 
 ![Alt text](assets/images/Horiseon-SS-1.png)
 
@@ -15,6 +12,7 @@ In order to achieve an accessible webpage for Horiseon, semantic tags were deplo
 ![Alt text](assets/images/Horiseon-SS-3.png)
 
 
+link to webpage: https://benrgross.github.io/Code-Refactor/
 
 
 
