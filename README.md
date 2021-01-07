@@ -8,11 +8,11 @@ In order to achieve an accessible webpage for Horiseon, semantic tags were deplo
 
 -make it clear you did this for a client and didn't build the website
 
-assets/images/Horiseon-SS-1
+assets/images/Horiseon-SS-1.png
 
-assets/images/Horiseon-SS-2
+assets/images/Horiseon-SS-2.png
 
-assets/images/Horiseon-SS-3
+assets/images/Horiseon-SS-3.png
 
 
 
