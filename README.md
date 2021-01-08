@@ -12,7 +12,7 @@ In order to achieve an accessible webpage for Horiseon, semantic tags were deplo
 ![Alt text](assets/images/Horiseon-SS-3.png)
 
 
-link to webpage: https://benrgross.github.io/Code-Refactor/
+link to webpage: https://benrgross.github.io/Horiseon-Code-Refactor/
 
 
 
